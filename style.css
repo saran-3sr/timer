@@ -77,3 +77,7 @@
 /* @media screen {
     
 } */
+video {
+    display: flex;
+    justify-content: center;
+  }
